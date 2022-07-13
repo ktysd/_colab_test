@@ -6,6 +6,7 @@
 - [Code_5.1.ipynb](https://colab.research.google.com/github/ktysd/_colab_test/blob/main/vc/Colab/Code_5.1.ipynb)
 - [Code_6.1.ipynb](https://colab.research.google.com/github/ktysd/_colab_test/blob/main/vc/Colab/Code_6.1.ipynb)
 - [Code_6.2.ipynb](https://colab.research.google.com/github/ktysd/_colab_test/blob/main/vc/Colab/Code_6.2.ipynb)
+- [Code_7.1.ipynb](https://colab.research.google.com/github/ktysd/_colab_test/blob/main/vc/Colab/Code_7.1.ipynb)
 
 
 ### 参考リンク
