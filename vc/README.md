@@ -1,5 +1,6 @@
 # Direct Colab Links
 
+- [Code_0.1.ipynb](https://colab.research.google.com/github/ktysd/_colab_test/blob/main/vc/Colab/Code_0.1.ipynb)
 - [Code_1.1.ipynb](https://colab.research.google.com/github/ktysd/_colab_test/blob/main/vc/Colab/Code_1.1.ipynb)
 - [Code_2.1.ipynb](https://colab.research.google.com/github/ktysd/_colab_test/blob/main/vc/Colab/Code_2.1.ipynb)
 - [Code_3.1.ipynb](https://colab.research.google.com/github/ktysd/_colab_test/blob/main/vc/Colab/Code_3.1.ipynb)
