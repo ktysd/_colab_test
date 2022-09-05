@@ -1,6 +1,6 @@
 # Download all codes as a ZIP file
 
-- [Code-ALL.zip](https://github.com/ktysd/_colab_test/blob/main/vc/Code-ALL.zip)
+- [Code-ALL.zip](https://github.com/ktysd/_colab_test/raw/main/vc/Colab/Code-ALL.zip)
 
 # Direct Colab Links
 
